@@ -1,6 +1,7 @@
 # SNHUWork
 
-##Certificate Generator Journal Assignment
+## CS305 Software Security
+### Certificate Generator Journal Assignment
 This is assignment we had to generate our own certificates through the command line
 
 ** • Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address? 
