@@ -15,7 +15,6 @@ Each branch of this repository contains work from a different class
     -Vulnerability Assessment Report
     -Journal Assigment
 
-## CS319 UI/UX Development
 ## [CS319](https://github.com/DanielleMonroeNY/SNHUWork/tree/CS319-UI/UX-Development)
 ### Contents: 
     -Colors, Sounds, and Motion
