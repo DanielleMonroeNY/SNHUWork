@@ -3,7 +3,7 @@
 
 Each branch of this repository contains work from a different class
 
-## [CS255](https://github.com/DanielleMonroeNY/SNHUWork/tree/CS255) 
+## [CS255 System Analysis and Design](https://github.com/DanielleMonroeNY/SNHUWork/tree/CS255) 
 ### Contents:
   Business Requirements Document. 
 
@@ -13,7 +13,7 @@ Each branch of this repository contains work from a different class
     - Vulnerability Assessment Report
     - Journal Assigment
 
-## [CS319](https://github.com/DanielleMonroeNY/SNHUWork/tree/CS319-UI/UX-Development)
+## [CS319 UI/UX Development](https://github.com/DanielleMonroeNY/SNHUWork/tree/CS319-UI/UX-Development)
 ### Contents: 
     - Colors, Sounds, and Motion
     - Paper Prototype Assignment
