@@ -10,11 +10,11 @@ Each branch of this repository contains work from a different class
 ## [CS305 Software Security](https://github.com/DanielleMonroeNY/SNHUWork/tree/CS305-Software-Security) 
 
 ### Contents:
-    *Vulnerability Assessment Report
-    *Journal Assigment
+    - Vulnerability Assessment Report
+    - Journal Assigment
 
 ## [CS319](https://github.com/DanielleMonroeNY/SNHUWork/tree/CS319-UI/UX-Development)
 ### Contents: 
-    *Colors, Sounds, and Motion
-    *Paper Prototype Assignment
+    - Colors, Sounds, and Motion
+    - Paper Prototype Assignment
        -Images of screens 1, 2, and 3 referenced with this assignment
