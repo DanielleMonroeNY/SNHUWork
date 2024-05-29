@@ -9,12 +9,21 @@ Each branch of this repository contains work from a different class
 
 ## [CS305 Software Security](https://github.com/DanielleMonroeNY/SNHUWork/tree/CS305-Software-Security) 
 
-### Contents:
-    - Vulnerability Assessment Report
-    - Journal Assigment
+## Contents:
+- Vulnerability Assessment Report
+- Journal Assigment: Certificate Generator
 
-## [CS319 UI/UX Development](https://github.com/DanielleMonroeNY/SNHUWork/tree/CS319-UI/UX-Development)
-### Contents: 
-    - Colors, Sounds, and Motion
-    - Paper Prototype Assignment
-       -Images of screens 1, 2, and 3 referenced with this assignment
+# [CS319 UI/UX Development](https://github.com/DanielleMonroeNY/SNHUWork/tree/CS319-UI/UX-Development)
+## Contents: 
+- Colors, Sounds, and Motion
+- Paper Prototype Assignment
+    -Images of screens 1, 2, and 3 referenced with this assignment
+
+
+# [CS405 Secure Coding](https://github.com/DanielleMonroeNY/SNHUWork/tree/CS405-Secure-Coding)
+## Contents: 
+- Journal Assignment: Portfolio Reflection
+- Security Policy
+- Buffer Overflow Assignment
+- CPP Check Assignment 
+- Encryption Assignment
