@@ -23,5 +23,6 @@ Each branch of this repository contains work from a different class
 - Encryption Assignment
 
 ## [CS340 Client Server Development](https://github.com/DanielleMonroeNY/SNHUWork/tree/CS340-Client-Server-Development)
+- Assignments Markdown File: Authentication, Indexing, and Queries
 - Client Server Development README
-- Images (In Alphebetical Order)
+- Referenced Images (In Alphebetical Order)
