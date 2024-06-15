@@ -26,3 +26,8 @@ Each branch of this repository contains work from a different class
 - Assignments Markdown File: Authentication, Indexing, and Queries
 - Client Server Development README
 - Referenced Images (In Alphebetical Order)
+
+## [MEAN Stack Application](https://github.com/DanielleMonroeNY/SNHUWork/tree/MEANStackApplication) 
+- MEAN Stack App README file
+- Clint Folder: Client-side of the application
+- Server Folder: Server-side of the application
